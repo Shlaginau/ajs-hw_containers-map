@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/llkjcb45q2rqt157?svg=true)](https://ci.appveyor.com/project/Shlaginau/ajs-hw-containers-map)
+
 # Домашнее задание к лекции «Контейнеры»
 
 ## Map
